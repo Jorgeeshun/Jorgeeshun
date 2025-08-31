@@ -105,18 +105,18 @@
         I'm always open to discussing new projects, creative ideas, or opportunities in front-end development and UI/UX design. Feel free to reach out!
       </p>
       <div class="flex flex-wrap justify-center space-x-6">
-        <a href="https://www.linkedin.com/in/jedacy/" target="_blank" class="text-blue-700 hover:text-blue-900 text-5xl transform hover:scale-125 transition duration-300">
+        <div><a href="https://www.linkedin.com/in/jedacy/" target="_blank" class="text-blue-700 hover:text-blue-900 text-5xl transform hover:scale-125 transition duration-300">
           <i class="fab fa-linkedin"></i>Linkedin
-        </a><b><br>
-        <a href="https://x.com/jorgeeshun" target="_blank" class="text-blue-400 hover:text-blue-600 text-5xl transform hover:scale-125 transition duration-300">Twitter
+        </a></div>
+        <div><a href="https://x.com/jorgeeshun" target="_blank" class="text-blue-400 hover:text-blue-600 text-5xl transform hover:scale-125 transition duration-300">Twitter
           <i class="fab fa-twitter-square"></i>
-        </a><br><br>
+        </a></div>
         <a href="#" target="_blank" class="text-pink-600 hover:text-pink-800 text-5xl transform hover:scale-125 transition duration-300">
           <i class="fas fa-globe"></i>
-        </a><br><br>
+        <div></a>
         <a href="mailto:georgeprinceakeshun23@gmail.com" class="text-red-500 hover:text-red-700 text-5xl transform hover:scale-125 transition duration-300">Email
           <i class="fas fa-envelope-square"></i>
-        </a>
+        </a></div>
       </div>
     </div>
   </section>
