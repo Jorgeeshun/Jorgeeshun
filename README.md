@@ -44,7 +44,7 @@
         </div>
         <div class="p-4 bg-gray-100 rounded-lg shadow-sm hover:shadow-md transition transform hover:-translate-y-2 hover:scale-105" data-aos="zoom-in" data-aos-delay="100">
           <i class="fab fa-css3-alt text-4xl text-blue-500 mb-2"></i>
-          <p class="font-semibold">CSS3 / Tailwind</p>
+          <p class="font-semibold">CSS3 / Flexbox, Gridbox, Grid</p>
         </div>
         <div class="p-4 bg-gray-100 rounded-lg shadow-sm hover:shadow-md transition transform hover:-translate-y-2 hover:scale-105" data-aos="zoom-in" data-aos-delay="200">
           <i class="fab fa-js-square text-4xl text-yellow-500 mb-2"></i>
@@ -53,14 +53,6 @@
         <div class="p-4 bg-gray-100 rounded-lg shadow-sm hover:shadow-md transition transform hover:-translate-y-2 hover:scale-105" data-aos="zoom-in" data-aos-delay="300">
           <i class="fab fa-react text-4xl text-blue-400 mb-2"></i>
           <p class="font-semibold">React.js</p>
-        </div>
-        <div class="p-4 bg-gray-100 rounded-lg shadow-sm hover:shadow-md transition transform hover:-translate-y-2 hover:scale-105" data-aos="zoom-in" data-aos-delay="400">
-          <i class="fab fa-python text-4xl text-green-500 mb-2"></i>
-          <p class="font-semibold">Python / Django</p>
-        </div>
-        <div class="p-4 bg-gray-100 rounded-lg shadow-sm hover:shadow-md transition transform hover:-translate-y-2 hover:scale-105" data-aos="zoom-in" data-aos-delay="500">
-          <i class="fas fa-database text-4xl text-gray-700 mb-2"></i>
-          <p class="font-semibold">Databases</p>
         </div>
         <div class="p-4 bg-gray-100 rounded-lg shadow-sm hover:shadow-md transition transform hover:-translate-y-2 hover:scale-105" data-aos="zoom-in" data-aos-delay="600">
           <i class="fas fa-paint-brush text-4xl text-pink-500 mb-2"></i>
@@ -82,22 +74,17 @@
         <div class="bg-gray-100 p-6 rounded-lg shadow hover:shadow-lg transition transform hover:-translate-y-2 hover:scale-105" data-aos="flip-left">
           <h3 class="text-xl font-semibold mb-2">🌐 TechCon 2024 Website</h3>
           <p class="text-gray-700 mb-4">Developed a responsive conference website with sections for schedule, registration, and contact. Focused on accessibility and clean UI/UX.</p>
-          <a href="#" class="text-indigo-600 font-semibold hover:underline">View Project →</a>
+          <a href="https://github.com/Jorgeeshun/TechCon_HTML" class="text-indigo-600 font-semibold hover:underline">View Project →</a>
         </div>
         <div class="bg-gray-100 p-6 rounded-lg shadow hover:shadow-lg transition transform hover:-translate-y-2 hover:scale-105" data-aos="flip-left" data-aos-delay="200">
           <h3 class="text-xl font-semibold mb-2">✅ To-Do List App</h3>
           <p class="text-gray-700 mb-4">A minimal, interactive task manager built with JavaScript and localStorage. Designed with usability and clean UI in mind.</p>
-          <a href="#" class="text-indigo-600 font-semibold hover:underline">View Project →</a>
-        </div>
-        <div class="bg-gray-100 p-6 rounded-lg shadow hover:shadow-lg transition transform hover:-translate-y-2 hover:scale-105" data-aos="flip-left" data-aos-delay="400">
-          <h3 class="text-xl font-semibold mb-2">📖 Django Bookstore</h3>
-          <p class="text-gray-700 mb-4">Implemented custom permissions and role-based access for a bookstore app using Django, ensuring secure and scalable functionality.</p>
-          <a href="#" class="text-indigo-600 font-semibold hover:underline">View Project →</a>
+          <a href="(https://github.com/Jorgeeshun/dynamic-to-do-list-js" class="text-indigo-600 font-semibold hover:underline">View Project →</a>
         </div>
         <div class="bg-gray-100 p-6 rounded-lg shadow hover:shadow-lg transition transform hover:-translate-y-2 hover:scale-105" data-aos="flip-left" data-aos-delay="600">
           <h3 class="text-xl font-semibold mb-2">🎨 Portfolio Website</h3>
           <p class="text-gray-700 mb-4">Built a personal portfolio with TailwindCSS, highlighting skills, projects, and contact details in a clean and modern design.</p>
-          <a href="#" class="text-indigo-600 font-semibold hover:underline">View Project →</a>
+          <a href="https://github.com/Jorgeeshun/Jorgeeshun" class="text-indigo-600 font-semibold hover:underline">View Project →</a>
         </div>
       </div>
     </div>
@@ -106,8 +93,8 @@
   <!-- GitHub Stats -->
   <section class="bg-white p-8 rounded-lg shadow mb-8 text-center" data-aos="zoom-in">
       <h2 class="text-3xl font-bold text-gray-800 mb-6 border-b-2 border-indigo-300 pb-2">My GitHub Stats</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=GeorgePrince23&show_icons=true&theme=tokyonight" alt="GitHub Stats" class="mx-auto mb-6 rounded-lg shadow transform hover:scale-105 transition duration-300" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePrince23&layout=compact&theme=tokyonight" alt="Top Languages" class="mx-auto rounded-lg shadow transform hover:scale-105 transition duration-300" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Jorgeeshun&show_icons=true&theme=tokyonight" alt="GitHub Stats" class="mx-auto mb-6 rounded-lg shadow transform hover:scale-105 transition duration-300" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgeeshun&layout=compact&theme=tokyonight" alt="Top Languages" class="mx-auto rounded-lg shadow transform hover:scale-105 transition duration-300" />
   </section>
 
   <!-- Connect / Contact Section -->
@@ -118,28 +105,19 @@
         I'm always open to discussing new projects, creative ideas, or opportunities in front-end development and UI/UX design. Feel free to reach out!
       </p>
       <div class="flex flex-wrap justify-center space-x-6">
-        <a href="https://www.linkedin.com/in/george-prince-eshun" target="_blank" class="text-blue-700 hover:text-blue-900 text-5xl transform hover:scale-125 transition duration-300">
+        <a href="www.linkedin.com/in/jedacy" target="_blank" class="text-blue-700 hover:text-blue-900 text-5xl transform hover:scale-125 transition duration-300">Linkedin
           <i class="fab fa-linkedin"></i>
         </a>
-        <a href="https://twitter.com/" target="_blank" class="text-blue-400 hover:text-blue-600 text-5xl transform hover:scale-125 transition duration-300">
+        <a href="https://x.com/jorgeeshun" target="_blank" class="text-blue-400 hover:text-blue-600 text-5xl transform hover:scale-125 transition duration-300">Twitter
           <i class="fab fa-twitter-square"></i>
         </a>
         <a href="#" target="_blank" class="text-pink-600 hover:text-pink-800 text-5xl transform hover:scale-125 transition duration-300">
           <i class="fas fa-globe"></i>
         </a>
-        <a href="mailto:georgeprinceakeshun23@gmail.com" class="text-red-500 hover:text-red-700 text-5xl transform hover:scale-125 transition duration-300">
+        <a href="mailto:georgeprinceakeshun23@gmail.com" class="text-red-500 hover:text-red-700 text-5xl transform hover:scale-125 transition duration-300">Email
           <i class="fas fa-envelope-square"></i>
         </a>
       </div>
     </div>
   </section>
 </div>
-
-<!-- AOS Script -->
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-<script>
-  AOS.init({
-    duration: 1000,
-    once: true
-  });
-</script>
